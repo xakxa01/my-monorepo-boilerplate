@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "✨ root",
+      "path": ".."
+    },
+    {
+      "name": "📦 packages",
+      "path": "../packages"
+    },
+    {
+      "name": "📦 apps",
+      "path": "../apps"
+    }
+  ]
+}
